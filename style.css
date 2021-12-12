@@ -51,7 +51,7 @@
 /*home section styling*/
 .home{
     display: flex;
-    background: url("images/1DSC_0477.jpg") no-repeat center;
+    background: url("1DSC_0477.jpg") no-repeat center;
     height: "2040";
     width: "900";
     color: #fff; 
