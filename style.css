@@ -51,7 +51,7 @@
 /*home section styling*/
 .home{
     display: flex;
-    background: url("1DSC_0477.jpg") no-repeat center;
+    background: url("images/1DSC_0477.jpg") no-repeat center;
     height: "2040";
     width: "900";
     color: #fff; 
@@ -159,6 +159,15 @@ section{
 .css {width: 90%; background-color: #2196F3;} 
 .js {width: 85%; background-color: #f44336;} 
 .php {width: 87%; background-color: #5210ce;}
-
-
-    
+* Footer Styles
+ */
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #d94575;
+    text-align: center;
+    color: #fff;
+}
